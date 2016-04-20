@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/switer/gulp-hash-name/issues"
   },
-  "homepage": "https://github.com/switer/gulp-hash-name#readme"
+  "homepage": "https://github.com/switer/gulp-hash-name#readme",
+  "dependencies": {
+    "stream": "0.0.2"
+  }
 }
