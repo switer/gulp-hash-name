@@ -1,0 +1,19 @@
+{
+  "name": "gulp-hash-name",
+  "version": "1.0.0",
+  "description": "Rename file with hash, replace of \"gulp-hash\".",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/switer/gulp-hash-name.git"
+  },
+  "author": "switer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/switer/gulp-hash-name/issues"
+  },
+  "homepage": "https://github.com/switer/gulp-hash-name#readme"
+}
