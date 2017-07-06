@@ -11,7 +11,7 @@ function render(tpl, data) {
 	})
 }
 function getHash(t) {
-	return crypto.createHash('md5').update(t).digest('hex')
+	return crypto.createHash('md5').update(t, 'utf-8').digest('hex')
 }
 function hashName(obj) {
 
