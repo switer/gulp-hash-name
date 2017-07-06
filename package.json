@@ -1,6 +1,6 @@
 {
   "name": "gulp-hash-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rename file with hash, replace of \"gulp-hash\".",
   "main": "index.js",
   "scripts": {
